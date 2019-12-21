@@ -1,2 +1,1 @@
-# fullstackopen
-University of Helsinki React Course
+# A bug tracker based off of University of Helsinki React course
