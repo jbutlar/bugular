@@ -10,7 +10,7 @@ import {errorHandler} from './utils/middleware'
 const app = express();
 const c: any = createContainer();
 
-const whiteList = ['http://localhost:3000', 'http://localhost:3001']
+const whiteList = ['http://localhost:3000', 'http://localhost:3001', 'https://bugular.herokuapp.com/']
 const corsOptions = {
   origin: function (origin, callback) {
     if (whiteList.indexOf(origin) !== -1) {
