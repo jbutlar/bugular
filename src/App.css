@@ -1,0 +1,84 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+#butter {
+  display: flex;
+  justify-content: right;
+  }
+  body {
+    background-color: #c4d8e2;
+  }
+
+  
+  /* table, th, td {
+    border: 1px solid black;
+  } */
+
+  #idQuerySubmit, #descQuerySubmit{
+    background-color: teal;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+
+  }
+
+  .tableContainer {
+    width: 70%;
+    padding: 20px;
+  }
+
+  .bugTable {
+      
+      width: 30%;
+            
+  }
+
+   .bugTableColumn {
+    width: auto;
+  } 
+
+  /* #bugTable thead {
+    border: 2px solid black;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  }
+  #bugTable tbody td,th {
+     border-right: 1px;
+    /*border-top: 2px;
+    border-bottom: 1px; 
+    border: 1px solid black;
+  } */
+  /* #id_query::-webkit-inner-spin-button, 
+  #id_query::-webkit-outer-spin-button { 
+    -moz-appearance: textfield;
+    -webkit-appearance: textfield; 
+    margin: 0; 
+  }
+  
+  #id_query{
+    width: "10%"; 
+  }
+
+  #id_query:hover { -webkit-appearance: none;} */
+
+
+
