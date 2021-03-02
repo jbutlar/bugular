@@ -23,7 +23,7 @@ Next you can run either **npm run start:dev** (recommended) or **npm run start:b
 
 Both of these scripts will transpile TS code into JS code into the dist directory in the root.
 
-You will need a local MySQL instance to run locall and can run the initial_create script in root/db. 
+You will need a local MySQL instance to run locally and can run the initial_create script in root/db. 
 
 To see what's deployed visit: https://bugular.herokuapp.com/
 
